@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+ml4t/data/
+momentum_strategy/tickerData
+momentum_strategy/__pycache__
+__pycache__
